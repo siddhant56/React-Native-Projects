@@ -11,14 +11,7 @@ import SigninScreen from "./screens/SigninScreen";
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBSz1bw_pQzGoUuYMHEXLJLd1iZIwxY7Js",
-  authDomain: "reactbootcamp-739aa.firebaseapp.com",
-  databaseURL: "https://reactbootcamp-739aa.firebaseio.com",
-  projectId: "reactbootcamp-739aa",
-  storageBucket: "reactbootcamp-739aa.appspot.com",
-  messagingSenderId: "576353699269",
-  appId: "1:576353699269:web:f8f3f663334fb11259f7ac",
-  measurementId: "G-EM4N1550G4"
+  //key
 };
 
 firebase.initializeApp(firebaseConfig);
